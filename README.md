@@ -7,6 +7,6 @@
 
 ## Here's some of my favorites shows/movies
 
-- ![Suits](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Ftv%2Fsuits&psig=AOvVaw0cH9QBTNU4oDdxx5o0ewxU&ust=1692915308638000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOiOn43n84ADFQAAAAAdAAAAABAo)
-- ![Queen's Gambit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt10048342%2F&psig=AOvVaw0y534bqsZLFUCZfoHxkz6C&ust=1692915829146000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJCotIXp84ADFQAAAAAdAAAAABAF)
-- ![Prison Break] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fdvd.netflix.com%2FMovie%2FPrison-Break%2F70140425&psig=AOvVaw2phaXGhV0TpkgXT5dZB_I6&ust=1692915856064000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDNpZLp84ADFQAAAAAdAAAAABAg)
+- ![Suits](https://github.com/naynay55/Favorite/assets/142947439/f59d2f4d-0c42-4ede-9f10-0fc210a8fc3b)
+- ![Queen's Gambit](https://github.com/naynay55/Favorite/assets/142947439/c72ead6f-d215-41ad-810f-b9a4071f83f8)
+- ![Prison Break](https://github.com/naynay55/Favorite/assets/142947439/a4b0c558-e051-4407-aaa7-3a20b2962d67)
