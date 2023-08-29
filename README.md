@@ -1,7 +1,7 @@
 # My Favorite Activity
 ## Watching movies and shows
 
-**I watch my movies and shows on many platfroms such as Netflix, Hulu, and Hbo Max. I enjoy it so much because that's how I learned how to speak English. My reasons are:**
+**I watch my movies and shows on many platfroms such as Netflix, Hulu, and Hbo Max. I enjoy it so much because that's how I learned to speak English. My reasons are:**
 
 1. A good to spend time with friends and family.
 2. I learn something new **everytime!**
